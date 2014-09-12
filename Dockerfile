@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:centos7
 MAINTAINER OKAMURA Yasunobu <okamura@informaitonsea.info>
 
 RUN yum update -y
